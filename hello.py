@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-print("Hello, %s" % "World")
+print("%s %s" % ("Hello", "World"))
